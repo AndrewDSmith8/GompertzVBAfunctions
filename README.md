@@ -1,4 +1,4 @@
-Gompertz Functions Spreadsheet	
+Gompertz Functions Spreadsheet
 © 2025 Andrew D Smith ansmith@ucd.ie	
 Educational purposes only. No warranty implied. Use at own risk. I accept no liability for any errors.	
 This spreadsheet contains VBA macros associated with Gompertz distribution, together with examples of their use.	
