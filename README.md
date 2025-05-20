@@ -5,7 +5,7 @@ This spreadsheet contains VBA macros associated with Gompertz distribution, toge
 You must enable macros in your security setting for these to work.	
 Key functions are:	
 GompMean(GompEta, algorithm) 	Mean of Gompertz distributon with shape parameter GompEta and scale parameter b = 1
-GompCov(GompEta, algorithm) As Double	Coefficient of variation
+GompCov(GompEta, algorithm) Coefficient of variation
 GompMSkew(GompEta, algorithm)	Moment skewness
 GompMKurt(GompEta, algorithm)	Moment excess kurtosis
 GompGini(GompEta, algorithm) Gini coeffiicient
